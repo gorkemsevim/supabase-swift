@@ -3,9 +3,9 @@
     {
       "identity" : "functions-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/supabase-community/functions-swift",
+      "location" : "https://github.com/gorkemsevim/functions-swift",
       "state" : {
-        "revision" : "c680cdfc53399376bdece299b1387b4fb3da514e",
+        "revision" : "eb1fff405279da8f271c9b6bf39a528699c746e1",
         "version" : "1.0.0"
       }
     },
